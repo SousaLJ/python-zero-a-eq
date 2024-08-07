@@ -1,8 +1,8 @@
 # Curso de Python - **Do zero à Engenharia Química**
 Curso ministrado na SEQ - 2024
 Ministrantes:
-[Leandro Sousa](https://www.linkedin.com/in/leandro-j-sousa/)
-[Rodrigo Trace](https://www.linkedin.com/in/rodrigotrece96/)
+- [Leandro Sousa](https://www.linkedin.com/in/leandro-j-sousa/)
+- [Rodrigo Trace](https://www.linkedin.com/in/rodrigotrece96/)
 
 ## Objetivos do Curso
 Este curso tem como objetivo fornecer uma introdução sólida à linguagem de programação Python, com foco em sua aplicação na resolução de problemas de engenharia química. Os participantes aprenderão desde os conceitos básicos de Python até a utilização de bibliotecas científicas e ferramentas para modelagem matemática, análise de dados e otimização de processos.
