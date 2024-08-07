@@ -16,7 +16,7 @@ Este curso tem como objetivo fornecer uma introdução sólida à linguagem de p
 - **Conteúdo**:
   - O que é Python?
   - História e características da linguagem.
-  - Instalação do Python e Jupyter Notebook.
+  - Instalação do Python e visual studio code.
   - Primeiros passos com Python.
 
 ### 2. Conceitos Básicos de Python
